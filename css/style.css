@@ -1,0 +1,191 @@
+.logo {
+	background: #303030;
+}
+
+.menu {
+	width: 70%;
+	text-align: center;
+	margin-top: -100px;
+	margin-left: 290px;
+}
+
+.link {
+	color:white;
+	text-decoration: none;
+	padding-left: 19px; 
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.episodes, .grandes {
+	background: #F0F0F0;
+	padding-bottom: 3%;
+	border-color: 3px solid white; 
+}
+
+.grandes img {
+	border-style: double;
+	border-width: 4px;
+	color: gray;
+}
+
+.episodes h2 {
+	font-family: Arial;
+	font-size: 18px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.episodes a {
+	font-family: Arial;
+	font-size: 12px;
+	color: #225487;
+	margin-top: 10px; 
+	margin-left: 5px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.grandes {
+	border-bottom: 2px solid #BABABA;
+}
+
+.grandes img {
+	width: 100%;
+	margin: 0 auto; 
+}
+
+.grandes p {
+	font-family: Arial;
+	text-align: center;
+	color: #225487;
+}
+
+.thumbs img {
+	max-width: 100%;
+	border-style: double;
+	border-width: 4px;
+	color: gray;
+	margin-top: 15px;
+}
+
+.thumbs {
+	text-align: center;
+}
+
+.thumbs a {
+	width: 90%;
+	text-decoration: none;
+	font-family: Arial;
+	color: #4972D1;	;
+	font-size: 12px;
+}
+
+.firstrow, .secondrow, .thirdrow, .forthrow, .fifthrow, .sixthrow, .seventhrow {
+	padding-top: 10px; 
+}
+
+hr {
+	margin-bottom: 10px;
+	border:1px solid #EBEDED;
+	margin-top: -5px;
+}
+
+.hr {
+	margin-top: 30px;
+}
+
+.one h4 {
+	text-align: left;
+	font-family: Arial;
+	margin-bottom: 10px;
+	color: #636363;
+}
+
+.one div a, .two div a, .band, .band a {
+	text-align: left;
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 30px;
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+.one div a, .two div a {
+	color: #4972D1;	
+}
+
+.two {
+	margin-top: 40px;
+}
+
+.two h4 {
+	text-align: left;
+	font-family: Arial;
+	margin-bottom: 10px;
+	color: #636363;
+}
+
+.band a {
+	color: #4972D1;	
+}
+
+.band {
+	margin-top: 30px;
+}
+
+.pod, .radio, .pencil {
+	width: 15px;
+}
+
+.aside {
+	padding-top: 40px;
+	max-width: 100%;
+}
+
+.footer {
+	margin-top: 11px;
+}
+
+footer  {
+	margin: 0px auto; 
+	padding: 3%;
+	background: #5E5E5E;
+}
+	
+.read {
+	font-size: 15px;
+	font-family: Arial;
+	color: #C9C9C9;
+	text-decoration:none;
+}
+
+.fin {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.end {
+	font-size: 12px;
+	font-family: Arial;
+	padding: 5px; 
+	text-decoration: none;
+	text-align: center;
+	color: #C9C9C9;
+}
+
+.pie p {
+	font-family: Arial;
+	text-align: center;
+	font-size: 10px;
+	color: #C2C2C2;
+}
+
+.texto {
+	font-size: 15px;
+	font-family: Arial;
+	color:white;
+	text-align: justify;
+	line-height: 30px;
+	margin-bottom: 30px;
+}
